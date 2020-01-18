@@ -4,6 +4,8 @@ A new Flutter application.
 
 <p float="left">
   <img src="assets/screen1.jpg" height=600 width=300 />
+
+
   <img src="assets/screen2.jpg" height=600 width=300 /> 
 </p>
 
