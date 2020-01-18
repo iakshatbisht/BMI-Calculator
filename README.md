@@ -3,7 +3,6 @@
 A new Flutter application.
 
 
-<br /><br />
 
   <img align="left" src="assets/screen1.jpg" height=600 width=300 title="Screen 1" hspace="20" />
   <img align="right" src="assets/screen2.jpg" height=600 width=300 title="Screen 2" hspace="20"/> 
@@ -13,7 +12,9 @@ A new Flutter application.
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 <br /><br /><br /><br />
-
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
 
 
 
