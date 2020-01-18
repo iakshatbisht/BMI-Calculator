@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-<p float="left">
+<p float="center">
   <img src="assets/screen1.jpg" height=600 width=300 />
 
 
