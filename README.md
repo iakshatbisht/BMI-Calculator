@@ -3,6 +3,7 @@
 A new Flutter application.
 
 
+<img src = "assets/working.mp4" height=500 width=300>
 
 ## Getting Started
 
