@@ -4,12 +4,10 @@ A new Flutter application.
 
 
 <video width="320" height="240" autoplay>
-  <source src="assets/working.mp4" type="video/mp4">
+  <source src="assets/working.mp4" type=video/mp4>
 </video>
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
