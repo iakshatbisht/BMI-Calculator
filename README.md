@@ -4,11 +4,9 @@ A new Flutter application.
 
 
 <br /><br />
-<p float="left">
+
   <img align="left" src="assets/screen1.jpg" height=600 width=300 title="Screen 1" hspace="20" />
   <img align="right" src="assets/screen2.jpg" height=600 width=300 title="Screen 2" hspace="20"/> 
-</p>
-
 <br /><br /><br /><br />
 
 
