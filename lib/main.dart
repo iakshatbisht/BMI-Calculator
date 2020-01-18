@@ -30,7 +30,7 @@ class _BmiState extends State<Bmi> {
   Color activeColor4 = Color(0xff1D1E33);
   Color activeColor5 = Color(0xff1D1E33);
 
-  int height = 120;
+  int height = 150;
   int weight = 30;
   int age = 0;
   String gender = null;
@@ -186,8 +186,8 @@ class _BmiState extends State<Bmi> {
                             inactiveColor3 = activeColor3;
                           });
                         },
-                        min: 120.0,
-                        max: 320,
+                        min: 53.0,
+                        max: 280.0,
                         value: height.toDouble(),
                       ),
                     ),
@@ -403,7 +403,7 @@ class _BmiState extends State<Bmi> {
         context: context,
         builder: (BuildContext context) {
           return AlertDialog(
-            backgroundColor: col,
+            backgroundColor: Color(0xff404040),
             shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(12)),
             elevation: 10.0,
