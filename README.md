@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+<img src="assets/screen1.jpg" height=500 width=300>
+<img src="assets/screen2.jpg" height=500 width=300>
+
 
 <video width="320" height="240" controls>
   <source src="assets/working.mp4" type="video/mp4" />
