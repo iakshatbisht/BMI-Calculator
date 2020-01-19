@@ -3,10 +3,21 @@
 A new Flutter application.
 
 
+## Snippets
+
+  <img align="left" src="assets/screen1.jpg" height=600 width=300 title="Screen 1" hspace="20" />
+  <img align="right" src="assets/screen2.jpg" height=600 width=300 title="Screen 2" hspace="20"/> 
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
