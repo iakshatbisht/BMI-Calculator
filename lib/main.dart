@@ -159,7 +159,7 @@ class _BmiState extends State<Bmi> {
                     textBaseline: TextBaseline.alphabetic,
                     children: <Widget>[
                       Text('$height', style: TextStyle(
-                          fontSize: 50.0, fontWeight: FontWeight.w900),
+                          fontSize: 40.0/*50 for others 40 for one plus*/, fontWeight: FontWeight.w900),
                       ),
                       SizedBox(width: 10.0,),
                       Text('cm',
@@ -219,7 +219,7 @@ class _BmiState extends State<Bmi> {
                         Text(
                           '$weight',
                           style: TextStyle(
-                              fontSize: 50.0, fontWeight: FontWeight.w900),
+                              fontSize: 40.0/*50 for others 40 for one plus*/, fontWeight: FontWeight.w900),
                         ),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.center,
@@ -289,7 +289,7 @@ class _BmiState extends State<Bmi> {
                             ),
                           ),
                           Text('$age', style: TextStyle(
-                              fontSize: 50.0, fontWeight: FontWeight.w900),
+                              fontSize: 40.0/*50 for others 40 for one plus*/, fontWeight: FontWeight.w900),
                           ),
                           Row(
                             mainAxisAlignment: MainAxisAlignment.center,

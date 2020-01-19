@@ -19,7 +19,7 @@ class Details extends StatelessWidget {
           Expanded(child: Container(
             padding: EdgeInsets.all(15.0),
             alignment: Alignment.bottomLeft,
-            child: Text('Your Result', style: TextStyle(fontSize: 50.0, fontWeight: FontWeight.bold),),
+            child: Text('Your Result', style: TextStyle(fontSize: 40.0/*50 for others 40 for one plus*/, fontWeight: FontWeight.bold),),
           )),
           Expanded(
             flex: 5,
@@ -34,7 +34,7 @@ class Details extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: <Widget>[
                   Text(' $type ', textAlign: TextAlign.center, style: TextStyle(color: Color(0xff24d876),fontSize: 30,fontWeight: FontWeight.bold),),
-                  Text(bmi.toStringAsFixed(2), textAlign: TextAlign.center,style: TextStyle(fontSize: 100.0,fontWeight: FontWeight.bold),),
+                  Text(bmi.toStringAsFixed(2), textAlign: TextAlign.center,style: TextStyle(fontSize: 95.0/*100 for others 95 for one plus*/,fontWeight: FontWeight.bold),),
                   Text(' $sentence ', textAlign: TextAlign.center, style: TextStyle(fontSize: 22),),
                 ],
               ),
