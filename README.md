@@ -5,8 +5,9 @@ A new Flutter application.
 
 ## Snippets
 
-  <img align="centre" src="assets/working.gif" height=600 width=300 title="Working">
-
+<p align="center">
+  <img src="assets/working.gif" height=600 width=300 title="Working">
+</p>
   <img align="left" src="assets/screen1.jpg" height=600 width=300 title="Screen 1" hspace="20" />
   <img align="right" src="assets/screen2.jpg" height=600 width=300 title="Screen 2" hspace="20"/> 
 <br /><br /><br /><br />
